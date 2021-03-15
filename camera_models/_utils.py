@@ -1,4 +1,4 @@
-from typing import Optional
+from typing import List, Optional
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -49,7 +49,7 @@ def set_xyzlim3d(
     return ax
 
 
-def set_xyzticks(ticks: list[float], ax: Optional[Axes3D] = None) -> Axes3D:
+def set_xyzticks(ticks: List[float], ax: Optional[Axes3D] = None) -> Axes3D:
     if ax is None:
         ax = plt.gca(projection="3d")
 
