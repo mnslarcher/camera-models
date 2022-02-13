@@ -1,4 +1,5 @@
-# Simple Camera Models with NumPy and Matplotlib
+
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/analytics-vidhya/simple-camera-models-with-numpy-and-matplotlib-92281f15f9b2)
 
 ## Introduction
 
