@@ -14,3 +14,9 @@ $ conda env create --prefix ./env --file environment.yml
 $ conda activate ./env
 $ jupyter notebook
 ```
+
+# Changelog
+
+## 2022-04-24
+
+- Fix the inconsistent use of the rotation matrix thanks to [@estshorter](https://github.com/estshorter) ([#1](https://github.com/mnslarcher/camera-models/pull/1))
