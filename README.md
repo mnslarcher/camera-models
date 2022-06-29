@@ -17,7 +17,10 @@ $ jupyter notebook
 
 # Changelog
 
-## 2022-04-24
+## 2022-06-29
 
 - Fix the inconsistent use of F instead of FOCAL_LENGTH in the last part of the notebook thanks to [@alexflorensa](https://github.com/alexflorensa) ([#2](https://github.com/mnslarcher/camera-models/pull/2))
+
+## 2022-04-24
+
 - Fix the inconsistent use of the rotation matrix thanks to [@estshorter](https://github.com/estshorter) ([#1](https://github.com/mnslarcher/camera-models/pull/1))
